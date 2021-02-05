@@ -1,4 +1,4 @@
-Docker Daemon
+Docker Setup Note
 ========================================================================
 
 Installation
