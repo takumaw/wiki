@@ -1,0 +1,36 @@
+Visual Studio Code Setup Note
+========================================================================
+
+Extensions
+------------------------------------------------------------------------
+
+ * autoconf (maelvalais.autoconf)
+ * C/C++ (ms-vscode.cpptools)
+ * Color Highlight (naumovs.color-highlight)
+ * Docker (peterjausovec.vscode-docker)
+ * EditorConfig for VS Code (editorconfig.editorconfig)
+ * ESLint (dbaeumer.vscode-eslint)
+ * GitLab Workflow (GitLab.gitlab-workflow)
+ * GitLens (eamodio.gitlens)
+ * Go (ms-vscode.go)
+ * HTMLHint (mkaufman.htmlhint)
+ * HTML Preview (tht13.html-preview-vscode)
+ * HTML Snippets (abusaidm.html-snippets)
+ * Japanese Language Pack for Visual Studio Code (ms-ceintl.vscode-language-pack-ja)
+ * JavaScript (ES6) code snippets (xabikos.javascriptsnippets)
+ * Jenkinsfile Support (secanis.jenkinsfile-support)
+ * Jupyter (ms-toolsai.jupyter)
+ * markdownlint (DavidAnson.vscode-markdownlint)
+ * npm (eg2.vscode-npm-script)
+ * npm Intellisense (christian-kohler.npm-intellisense)
+ * Path Intellisense (christian-kohler.path-intellisense)
+ * Prettier - Code formatter (esbenp.prettier-vscode)
+ * Python (ms-python.python)
+ * Remote Develooment (ms-vscode-remote.vscode-remote-extensionpack)
+ * Remote VSCode (rafaelmaiolla.remote-vscode)
+ * stylelint (stylelint.vscode-stylelint)
+ * Vetur (octref.vetur)
+ * vscode-icons (robertohuertasm.vscode-icons)
+ * Vue 3 Snippets (hollowtree.vue-snippets)
+ * XML (redhat.vscode-xml)
+ * YAML (redhat.vscode-yaml)
