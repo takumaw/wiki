@@ -1,4 +1,4 @@
-Ubuntu setup note
+Ubuntu Setup Note
 ========================================================================
 
 Initial Setup
