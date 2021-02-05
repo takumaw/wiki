@@ -72,7 +72,7 @@ chronyc -a makestep
 
 ### Root CA Certificates
 
-Place certs under `/usr/local/share/ca-certificates`.
+Place certs under `/usr/local/share/ca-certificates/`.
 
 Then,
 
