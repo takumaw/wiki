@@ -1,4 +1,4 @@
-Ubuntu setup note
+CentOS Setup Note
 ========================================================================
 
 Initial Setup
