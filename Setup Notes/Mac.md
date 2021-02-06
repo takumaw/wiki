@@ -11,11 +11,7 @@ Initial Setup
  * Setup Printers
  * Install Applications
  * Restore Home Directory (`~/Library`, ...)
- 
- ### Misc
- 
-  * [shutdown - How can I prevent accidentally quitting an application? - Ask Different](https://apple.stackexchange.com/questions/24712/how-can-i-prevent-accidentally-quitting-an-application)
- 
+
 Graphical Applications
 ------------------------------------------------------------------------
 
@@ -131,6 +127,29 @@ Automater Snippets
 
 ```bash
 /usr/bin/defaults write com.apple.dock ResetLaunchPad -bool true; /usr/bin/killall Dock
+```
+
+Console Config
+------------------------------------------------------------------------
+
+### Enable Touch ID for sudo
+
+```bash
+sudo vim /etc/pam.d/sudo
+```
+
+```
+auth       sufficient     pam_tid.so
+```
+
+### Make sudo to ask password everytime
+
+```bash
+sudo visudo
+```
+
+```
+Defaults        env_reset,timestamp_timeout=0
 ```
 
 Console Applications (Homebrew)
