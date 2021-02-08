@@ -147,7 +147,7 @@ sudo apt install git
 ### Python-specific
 
 ```bash
-sudo apt install \
+sudo apt install -y \
   python3 \
   python3-pip \
   python3-venv \
@@ -169,7 +169,7 @@ https://nodejs.org/ja/download/package-manager/
 ```bash
 sudo apt install -y \
   texlive \
-  texlive-lang-cjktexlive-lang-cjk \
+  texlive-lang-cjk \
   texlive-fonts-recommended \
   texlive-fonts-extra \
   xdvik-ja
