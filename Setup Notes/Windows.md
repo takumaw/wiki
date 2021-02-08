@@ -61,7 +61,15 @@ Graphical Applications
  * IntelliJ IDEA
  * MySQL Workbench
  * MongoDB Compass
+ * Electron Fiddle
  * Oracle JDK
  * TigerVNC
  * WinSCP
  * Wireshark
+
+Console Applications
+------------------------------------------------------------------------
+
+ * Winget
+
+See also: [Ubuntu Setup Note](ubuntu.md).
