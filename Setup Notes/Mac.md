@@ -181,207 +181,207 @@ brew tap homebrew/services
 
 ```bash
 brew install \
- byobu \
- coreutils \
- dialog \
- htop \
- p7zip \
- pv \
- rsync \
- telnet \
- tmux \
- w3m \
- wget
+  byobu \
+  coreutils \
+  dialog \
+  htop \
+  p7zip \
+  pv \
+  rsync \
+  telnet \
+  tmux \
+  w3m \
+  wget
 ```
 
 ```bash
 brew install \
- aria2 \
- cocot \
- grep \
- pstree \
- rename \
- renameutils \
- watch
+  aria2 \
+  cocot \
+  grep \
+  pstree \
+  rename \
+  renameutils \
+  watch
 ```
 
 ### macOS-specific
 
 ```bash
 brew install \
- brew-cask-completion \
- launchctl-completion \
- open-completion \
- zsh-completions
+  brew-cask-completion \
+  launchctl-completion \
+  open-completion \
+  zsh-completions
 ```
 
 ### Source Code Management
 
 ```bash
 brew install \
- git
+  git
 ```
 
 ```bash
 brew install \
- colorsvn \
- cvs \
- cvs2svn \
- cvsps \
- cvsutils \
- subversion
+  colorsvn \
+  cvs \
+  cvs2svn \
+  cvsps \
+  cvsutils \
+  subversion
 ```
 
 ```bash
 brew cask install \
- subgit
+  subgit
 ```
 
 ### Machines & Containers
 
 ```bash
 brew install \
- ansible \
- packer
+  ansible \
+  packer
 ```
 
 ```bash
 brew install \
- docker-completion \
- docker-compose-completion \
- docker-machine-completion \
- packer-completion \
- vagrant-completion
+  docker-completion \
+  docker-compose-completion \
+  docker-machine-completion \
+  packer-completion \
+  vagrant-completion
 ```
 
 ### Documents & Visualization
 
 ```bash
 brew install \
- asciidoc \
- colordiff \
- docbook \
- dos2unix \
- doxygen \
- help2man \
- lv \
- nkf \
- pandoc \
- qpdf \
- recode \
- sphinx-doc
+  asciidoc \
+  colordiff \
+  docbook \
+  dos2unix \
+  doxygen \
+  help2man \
+  lv \
+  nkf \
+  pandoc \
+  qpdf \
+  recode \
+  sphinx-doc
 ```
 
 ```bash
 brew install \
- graphicsmagick \
- graphviz \
- imagemagick
+  graphicsmagick \
+  graphviz \
+  imagemagick
 ```
 
 ### Networking
 
 ```bash
 brew install \
- corkscrew \
- iperf \
- nmap \
- socat
+  corkscrew \
+  iperf \
+  nmap \
+  socat
 ```
 
 ### Databases
 
 ```bash
 brew install \
- leveldb \
- mongodb \
- mysql \
- postgresql \
- redis \
- sqlite
+  leveldb \
+  mongodb \
+  mysql \
+  postgresql \
+  redis \
+  sqlite
 ```
 
 ### Build Tools
 
 ```bash
 brew install \
- autoconf \
- autogen \
- automake \
- cmake \
- libtool
+  autoconf \
+  autogen \
+  automake \
+  cmake \
+  libtool
 ```
 
 ### Programming Languages
 
 ```bash
 brew install \
- go \
- dep \
- ocaml \
- opam \
- r \
- v8
+  go \
+  dep \
+  ocaml \
+  opam \
+  r \
+  v8
 ```
 
 ```bash
 brew install \
- rustc-completion
+  rustc-completion
 ```
 
 ### C-specific
 
 ```bash
 brew install \
- uncrustify
+  uncrustify
 ```
 
 ### Haskell-specific
 
 ```bash
 brew install \
- cabal-install \
- ghc \
- haskell-stack
+  cabal-install \
+  ghc \
+  haskell-stack
 ```
 
 ### Python-specific
 
 ```bash
 brew install \
- python \
- python@2 \
- pypy \
- pypy3 \
- jython
+  python \
+  python@2 \
+  pypy \
+  pypy3 \
+  jython
 ```
 
 ```bash
 brew install \
- pip-completion
+  pip-completion
 ```
 
 ```bash
 brew install \
- numpy \
- scipy \
- matplotlib
+  numpy \
+  scipy \
+  matplotlib
 ```
 
 ### Ruby-specific
 
 ```bash
 brew install \
- ruby
+  ruby
 ```
 
 ```bash
 brew install \
- bundler-completion \
- gem-completion \
- rails-completion \
- rake-completion \
- ruby-completion
+  bundler-completion \
+  gem-completion \
+  rails-completion \
+  rake-completion \
+  ruby-completion
 ```
 
 ### Java-specific
@@ -392,122 +392,122 @@ brew tap adoptopenjdk/openjdk
 
 ```bash
 brew cask install \
- adoptopenjdk8 \
- adoptopenjdk8-openj9 \
- adoptopenjdk8-openj9-jre \
- adoptopenjdk11 \
- adoptopenjdk11-openj9
+  adoptopenjdk8 \
+  adoptopenjdk8-openj9 \
+  adoptopenjdk8-openj9-jre \
+  adoptopenjdk11 \
+  adoptopenjdk11-openj9
 ```
 
 ```bash
 brew install \
- ant \
- gradle \
- maven
+  ant \
+  gradle \
+  maven
 ```
 
 ```bash
 brew install \
- gradle-completion \
- maven-completion
+  gradle-completion \
+  maven-completion
 ```
 
 ```bash
 brew install \
- tomcat \
- tomcat@8 \
- wildfly-as
+  tomcat \
+  tomcat@8 \
+  wildfly-as
 ```
 
 ### Node-specific
 
 ```bash
 brew install \
- node \
- yarn
+  node \
+  yarn
 ```
 
 ```bash
 brew install \
- yarn-completion
+  yarn-completion
 ```
 
 ### Swift-specific
 
 ```bash
 brew install \
- carthage \
- cocoapods \
- swiftlint
+  carthage \
+  cocoapods \
+  swiftlint
 ```
 
 ### Web Development
 
 ```bash
 brew install \
- httpie \
- jq \
- mitmproxy
+  httpie \
+  jq \
+  mitmproxy
 ```
 
 ### Scientific Computation
 
 ```bash
 brew install \
- boost \
- boost-mpi \
- boost-python3 \
- open-mpi \
- opencv
+  boost \
+  boost-mpi \
+  boost-python3 \
+  open-mpi \
+  opencv
 ```
 
 ### Music Processing
 
 ```bash
 brew install \
- chuck
+  chuck
 ```
 
 ### Multimedia
 
 ```bash
 brew install ffmpeg \
- --with-fdk-aac \
- --with-fontconfig \
- --with-freetype \
- --with-libbluray \
- --with-libbs2b \
- --with-libcaca \
- --with-libvidstab \
- --with-libvorbis \
- --with-libvpx \
- --with-openh264 \
- --with-openjpeg \
- --with-openssl \
- --with-rtmpdump \
- --with-rubberband \
- --with-snappy \
- --with-tools \
- --with-webp \
- --with-x265
+  --with-fdk-aac \
+  --with-fontconfig \
+  --with-freetype \
+  --with-libbluray \
+  --with-libbs2b \
+  --with-libcaca \
+  --with-libvidstab \
+  --with-libvorbis \
+  --with-libvpx \
+  --with-openh264 \
+  --with-openjpeg \
+  --with-openssl \
+  --with-rtmpdump \
+  --with-rubberband \
+  --with-snappy \
+  --with-tools \
+  --with-webp \
+  --with-x265
 ```
 
 ```bash
 brew install \
- mp4box
+  mp4box
 ```
 
 ### File Management
 
 ```bash
 brew install \
- fdupes
+  fdupes
 ```
 
 ### Project Management
 
 ```bash
 brew install \
- cloc \
- sloccount
+  cloc \
+  sloccount
 ```
