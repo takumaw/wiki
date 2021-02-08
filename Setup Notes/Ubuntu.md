@@ -151,8 +151,9 @@ sudo apt install \
   python3 \
   python3-pip \
   python3-venv \
-  python3-jupyter \
-  python3-nbconvert \
+  jupyter \
+  jupyter-notebook \
+  jupyter-nbconvert \
   python3-numpy \
   python3-scipy \
   python3-matplotlib \
