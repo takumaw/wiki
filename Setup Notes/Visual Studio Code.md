@@ -34,3 +34,9 @@ Extensions
  * Vue 3 Snippets (hollowtree.vue-snippets)
  * XML (redhat.vscode-xml)
  * YAML (redhat.vscode-yaml)
+
+Fixes
+------------------------------------------------------------------------
+
+ * https://github.com/microsoft/vscode-remote-release/issues/937#issuecomment-514714615
+ * https://gist.github.com/diablodale/54756043c395d712053cf0d50a86086a
