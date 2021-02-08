@@ -131,3 +131,45 @@ sudo apt update; sudo apt upgrade -y; sudo apt autoremove -y; sudo apt autoclean
 ```bash
 sudo reboot
 ```
+
+Console Applications
+------------------------------------------------------------------------
+
+### Source Code Management
+
+ * https://git-scm.com/download/linux
+
+```bash
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt install git
+```
+
+### Python-specific
+
+```bash
+sudo apt install \
+  python3 \
+  python3-pip \
+  python3-venv \
+  python3-jupyter \
+  python3-nbconvert \
+  python3-numpy \
+  python3-scipy \
+  python3-matplotlib \
+  python3-pandas \
+  python3-requests
+```
+### Node-specific
+
+https://nodejs.org/ja/download/package-manager/
+
+### TeX Live
+
+```bash
+sudo apt install -y \
+  texlive \
+  texlive-lang-cjktexlive-lang-cjk \
+  texlive-fonts-recommended \
+  texlive-fonts-extra \
+  xdvik-ja
+```
