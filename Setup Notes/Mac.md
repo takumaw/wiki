@@ -22,20 +22,16 @@ Graphical Applications
  * Mozilla Firefox
  * Mozilla Thunderbird
  * TorBrowser
- * Progressive Downloader
 
 ### Communication
 
  * Discord
- * Gitter
  * LINE
  * Skype
  * Slack
  
 ### Multimedia
 
- * Leowo Blu-ray Player
- * VLC
  * Spotify
 
 ### Office & Documents
@@ -61,10 +57,7 @@ Graphical Applications
  * HandBrake
  * Inkscape
  * Kid3
- * Krita
  * MuseScore 2
- * Processing
- * Synfig Studio
 
 ### Cloud Storage
 
@@ -73,7 +66,6 @@ Graphical Applications
 ### Utilities
 
  * Amphetamine
- * App Language Chooser
  * AppCleaner
  * balenaEtcher
  * Battery Monitor
@@ -82,8 +74,6 @@ Graphical Applications
  * JamWiFi
  * MacUpdater
  * The Unarchiver
- * TinkerTool
- * Transmission
  * TripMode
  * WiFi Explorer
  * XQuartz
@@ -98,7 +88,6 @@ Graphical Applications
  * Emacs
  * Fork
  * IntelliJ IDEA
- * macFUSE
  * MacVim
  * MongoDB Compass
  * MongoHub
@@ -114,11 +103,6 @@ Graphical Applications
 
  * CoqIDE
  * Isabelle/HOL
- * Juno
-
-### Preference Panes
-
- * RCDefaultApp
 
 Automater Snippets
 ------------------------------------------------------------------------
