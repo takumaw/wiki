@@ -135,13 +135,119 @@ sudo reboot
 Console Applications
 ------------------------------------------------------------------------
 
+### Essentials
+
+```bash
+sudo apt install -y \
+  byobu \
+  coreutils \
+  dialog \
+  htop \
+  p7zip \
+  pv \
+  rsync \
+  telnet \
+  tmux \
+  w3m \
+  wget
+```
+
+```bash
+sudo apt install -y \
+  aria2 \
+  fdupes \
+  pstree \
+  rename \
+  renameutils
+```
+
 ### Source Code Management
 
  * https://git-scm.com/download/linux
 
 ```bash
-sudo add-apt-repository ppa:git-core/ppa
+sudo add-apt-repository -y --update ppa:git-core/ppa
 sudo apt install git
+```
+
+```bash
+sudo apt install -y \
+  subversion
+```
+
+### VMs & Containers
+
+ * https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
+ 
+```bash
+sudo apt-add-repository -y --update ppa:ansible/ansible
+sudo apt install ansible
+```
+
+### Documents & Visualization
+
+```bash
+sudo apt install -y \
+  asciidoc \
+  colordiff \
+  docbook \
+  dos2unix \
+  doxygen \
+  help2man \
+  lv \
+  nkf \
+  pandoc \
+  qpdf \
+  recode \
+  sphinx-doc
+```
+
+```bash
+sudo apt install -y \
+  graphicsmagick \
+  graphviz \
+  imagemagick
+```
+
+### Networking
+
+```bash
+sudo apt install -y \
+  corkscrew \
+  iperf \
+  nmap \
+  socat
+```
+
+### Databases
+
+ * https://www.postgresql.org/download/linux/ubuntu/
+ * https://dev.mysql.com/downloads/repo/apt/
+ 
+```bash
+sudo apt install -y \
+  sqlite
+```
+
+### Build Tools
+
+```bash
+sudo apt install -y \
+  autoconf \
+  autogen \
+  automake \
+  cmake \
+  libtool
+```
+
+### Haskell-specific
+
+```bash
+sudo apt install -y \
+  cabal-install \
+  ghc \
+  haskell-platform \
+  haskell-stack
 ```
 
 ### Python-specific
@@ -149,6 +255,11 @@ sudo apt install git
 ```bash
 sudo apt install -y \
   python3 \
+  pypy3
+```
+
+```bash
+sudo apt install -y \
   python3-pip \
   python3-venv \
   jupyter \
@@ -160,9 +271,35 @@ sudo apt install -y \
   python3-pandas \
   python3-requests
 ```
+
+### Java-specific
+
+```bash
+sudo apt install -y \
+  ant \
+  gradle \
+  maven
+```
+
 ### Node-specific
 
 https://nodejs.org/ja/download/package-manager/
+
+### Web Development
+
+```bash
+sudo apt install -y \
+  jq \
+  mitmproxy
+```
+
+### Project Management
+
+```bash
+sudo apt install -y \
+  cloc \
+  sloccount
+```
 
 ### TeX Live
 
