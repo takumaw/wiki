@@ -181,7 +181,7 @@ brew install \
 ```bash
 brew install \
   aria2 \
-  cocot \
+  fdupes \
   grep \
   pstree \
   rename \
@@ -203,30 +203,15 @@ brew install \
 
 ```bash
 brew install \
-  git
-```
-
-```bash
-brew install \
-  colorsvn \
-  cvs \
-  cvs2svn \
-  cvsps \
-  cvsutils \
+  git \
   subversion
 ```
 
-```bash
-brew cask install \
-  subgit
-```
-
-### Machines & Containers
+### VMs & Containers
 
 ```bash
 brew install \
-  ansible \
-  packer
+  ansible
 ```
 
 ```bash
@@ -277,11 +262,8 @@ brew install \
 
 ```bash
 brew install \
-  leveldb \
-  mongodb \
   mysql \
   postgresql \
-  redis \
   sqlite
 ```
 
@@ -301,23 +283,15 @@ brew install \
 ```bash
 brew install \
   go \
-  dep \
   ocaml \
   opam \
   r \
-  v8
+  rust
 ```
 
 ```bash
 brew install \
   rustc-completion
-```
-
-### C-specific
-
-```bash
-brew install \
-  uncrustify
 ```
 
 ### Haskell-specific
@@ -334,38 +308,15 @@ brew install \
 ```bash
 brew install \
   python \
-  python@2 \
-  pypy \
-  pypy3 \
-  jython
+  pypy3
 ```
 
 ```bash
 brew install \
-  pip-completion
-```
-
-```bash
-brew install \
+  pip-completion \
   numpy \
   scipy \
   matplotlib
-```
-
-### Ruby-specific
-
-```bash
-brew install \
-  ruby
-```
-
-```bash
-brew install \
-  bundler-completion \
-  gem-completion \
-  rails-completion \
-  rake-completion \
-  ruby-completion
 ```
 
 ### Java-specific
@@ -399,8 +350,7 @@ brew install \
 ```bash
 brew install \
   tomcat \
-  tomcat@8 \
-  wildfly-as
+  tomcat@8
 ```
 
 ### Node-specific
@@ -429,63 +379,8 @@ brew install \
 
 ```bash
 brew install \
-  httpie \
   jq \
   mitmproxy
-```
-
-### Scientific Computation
-
-```bash
-brew install \
-  boost \
-  boost-mpi \
-  boost-python3 \
-  open-mpi \
-  opencv
-```
-
-### Music Processing
-
-```bash
-brew install \
-  chuck
-```
-
-### Multimedia
-
-```bash
-brew install ffmpeg \
-  --with-fdk-aac \
-  --with-fontconfig \
-  --with-freetype \
-  --with-libbluray \
-  --with-libbs2b \
-  --with-libcaca \
-  --with-libvidstab \
-  --with-libvorbis \
-  --with-libvpx \
-  --with-openh264 \
-  --with-openjpeg \
-  --with-openssl \
-  --with-rtmpdump \
-  --with-rubberband \
-  --with-snappy \
-  --with-tools \
-  --with-webp \
-  --with-x265
-```
-
-```bash
-brew install \
-  mp4box
-```
-
-### File Management
-
-```bash
-brew install \
-  fdupes
 ```
 
 ### Project Management
