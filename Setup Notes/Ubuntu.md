@@ -156,7 +156,7 @@ sudo apt install -y \
 sudo apt install -y \
   aria2 \
   fdupes \
-  pstree \
+  psmisc \
   rename \
   renameutils
 ```
@@ -167,7 +167,7 @@ sudo apt install -y \
 
 ```bash
 sudo add-apt-repository -y --update ppa:git-core/ppa
-sudo apt install git
+sudo apt install -y git
 ```
 
 ```bash
@@ -181,7 +181,7 @@ sudo apt install -y \
  
 ```bash
 sudo apt-add-repository -y --update ppa:ansible/ansible
-sudo apt install ansible
+sudo apt install -y ansible
 ```
 
 ### Documents & Visualization
