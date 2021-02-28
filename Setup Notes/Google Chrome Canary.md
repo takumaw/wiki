@@ -10,6 +10,7 @@ Extensions
  * Lighthouse
  * Page Analytics (by Google)
  * Palette Creator
+ * Powerlets
  * User-Agent Switcher for Chrome
  * Vue.js devtools
  * Wappalyzer
