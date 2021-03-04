@@ -1,4 +1,4 @@
-Google Chrome Canary Setup Note
+Google Chrome Setup Note
 ========================================================================
 
 Extensions
