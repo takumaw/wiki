@@ -9,7 +9,6 @@ Extensions
  * EditThisCookie
  * JSON Viewer
  * Lighthouse
- * Page Analytics (by Google)
  * Vue.js devtools
  * Wappalyzer
  * WhatFont
