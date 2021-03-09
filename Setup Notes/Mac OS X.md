@@ -113,6 +113,13 @@ Automater Snippets
 /usr/bin/defaults write com.apple.dock ResetLaunchPad -bool true; /usr/bin/killall Dock
 ```
 
+Fonts
+------------------------------------------------------------------------
+
+ * Google Noto Fonts
+ * IPA Fonts
+ * M PLUS Fonts
+
 Console Config
 ------------------------------------------------------------------------
 
@@ -390,7 +397,6 @@ brew install \
   cloc \
   sloccount
 ```
-
 
 Mac Uninstallation Note
 ========================================================================
